@@ -6,7 +6,7 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input, Dense, Concatenate
 from flask import Flask, request, jsonify
 
-# Example API endpoints
+# Load Data API endpoints
 user_api = "http://127.0.0.1:8000/api/patientdata"
 food_api = "http://127.0.0.1:8000/api/food"
 
@@ -32,7 +32,7 @@ if users_response.status_code == 200 and users_json['status']:
 else:
     print("Failed to fetch user data")
 
-# Load food data from an API
+# Fetch food data from an API
 foods_response = requests.get(food_api)
 foods_json = foods_response.json()
 
@@ -60,7 +60,6 @@ interactions = interactions.merge(foods, on='food_id')
 # One-hot encode categorical features
 user_features = pd.get_dummies(interactions[['food_id', 'bmi', 'diabetic_status', 'glucose_level', 'favorite_food']])
 food_features = pd.get_dummies(interactions[['user_id', 'food_id', 'breakfast', 'lunch', 'dinner', 'totalCalories', 'carbohydrates', 'proteins', 'fats']])
-
 liked = interactions['liked']
 
 # Convert DataFrames to NumPy arrays for TensorFlow
@@ -96,6 +95,7 @@ app = Flask(__name__)
 
 @app.route('/recommend', methods=['POST'])
 def recommend():
+    # Fetch user data from api request body
     user_data = request.json['user']
     user_df = pd.DataFrame([user_data])
     user_features_enc = pd.get_dummies(user_df).reindex(columns=user_features.columns, fill_value=0)
