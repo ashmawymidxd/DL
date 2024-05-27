@@ -1,49 +1,42 @@
 import requests
 import numpy as np
 import pandas as pd
+from sklearn.model_selection import train_test_split
+from flask import Flask, request, jsonify
 import tensorflow as tf
 from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Input, Dense, Concatenate
-from flask import Flask, request, jsonify
+from tensorflow.keras.layers import Input, Dense, Concatenate, Dropout
 
 # Load Data API endpoints
 user_api = "http://127.0.0.1:8000/api/patientdata"
 food_api = "http://127.0.0.1:8000/api/food"
-
-# Fech Patient interaction data and save it in a CSV file
 food_api_url = "http://127.0.0.1:8000/api/patientRatingFood"
-response = requests.get(food_api_url)
 
+# Fetch Patient interaction data and save it in a CSV file
+response = requests.get(food_api_url)
 if response.status_code == 200:
     food_data = response.json()
     food_df = pd.DataFrame(food_data)
     # Save to database or CSV
-    food_df.to_csv('C:\\Users\\1\\Desktop\DL\\RecomDietary\\Data\\user_food_interactions.csv', index=False)
+    food_df.to_csv('C:\\Users\\1\\Desktop\\DL\\RecomDietary\\Data\\user_food_interactions.csv', index=False)
 else:
     print("Failed to fetch data from API")
 
 # Fetch user data from API
 users_response = requests.get(user_api)
 users_json = users_response.json()
-
 if users_response.status_code == 200 and users_json['status']:
     users = pd.DataFrame(users_json['data'])
-    # print(users)
 else:
     print("Failed to fetch user data")
 
-# Fetch food data from an API
+# Fetch food data from API
 foods_response = requests.get(food_api)
 foods_json = foods_response.json()
-
 if foods_response.status_code == 200 and isinstance(foods_json, list):
     foods = pd.DataFrame(foods_json)
-    # print(foods)
 else:
     print("Failed to fetch food data")
-
-# Debug: Print columns of foods DataFrame
-# print("Columns in foods DataFrame:", foods.columns)
 
 # Load interaction data from a CSV file
 interactions = pd.read_csv('C:\\Users\\1\\Desktop\\DL\\RecomDietary\\Data\\user_food_interactions.csv')
@@ -67,6 +60,10 @@ user_features_np = user_features.values.astype(np.float32)
 food_features_np = food_features.values.astype(np.float32)
 liked_np = liked.values.astype(np.float32)
 
+# Split data into training and validation sets
+user_features_train, user_features_val, food_features_train, food_features_val, liked_train, liked_val = train_test_split(
+    user_features_np, food_features_np, liked_np, test_size=0.2, random_state=42)
+
 # Normalize the features
 print("User features shape:", user_features_np.shape)
 print("Food features shape:", food_features_np.shape)
@@ -81,14 +78,24 @@ combined_features = Concatenate()([user_input, food_input])
 
 # Build a neural network
 x = Dense(128, activation='relu')(combined_features)
+x = Dropout(0.3)(x)  # Add dropout for regularization
 x = Dense(64, activation='relu')(x)
+x = Dropout(0.3)(x)  # Add dropout for regularization
 output = Dense(1, activation='sigmoid')(x)
 
 model = Model(inputs=[user_input, food_input], outputs=output)
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
 # Train the model
-model.fit([user_features_np, food_features_np], liked_np, epochs=10, batch_size=32)
+history = model.fit(
+    [user_features_train, food_features_train], liked_train,
+    validation_data=([user_features_val, food_features_val], liked_val),
+    epochs=10, batch_size=32
+)
+
+# Print model accuracy
+val_loss, val_accuracy = model.evaluate([user_features_val, food_features_val], liked_val)
+print(f"Validation Accuracy: {val_accuracy * 100:.2f}%")
 
 # Flask app to serve recommendations
 app = Flask(__name__)
