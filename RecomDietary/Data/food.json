@@ -1998,5 +1998,1295 @@
         "carbohydrates": "65",
         "proteins": "55",
         "fats": "20"
+    },
+    {
+        "food_id": 201,
+        "breakfast": "Overnight oats with chia seeds, almond milk, and berries",
+        "lunch": "Tuna salad with chopped vegetables and lettuce wraps",
+        "dinner": "Shrimp stir-fry with broccoli, snow peas, and brown rice",
+        "totalCalories": "700",
+        "carbohydrates": "75",
+        "proteins": "60",
+        "fats": "35"
+    },
+    {
+        "food_id": 202,
+        "breakfast": "Egg muffins with spinach, cheese, and whole wheat sausage",
+        "lunch": "Black bean burger bowl with brown rice, salsa, and avocado",
+        "dinner": "Baked chicken breast with roasted sweet potato and green beans",
+        "totalCalories": "800",
+        "carbohydrates": "85",
+        "proteins": "70",
+        "fats": "30"
+    },
+    {
+        "food_id": 203,
+        "breakfast": "Whole wheat toast with sliced turkey and avocado",
+        "lunch": "Quinoa salad with grilled chicken, vegetables, and a light vinaigrette",
+        "dinner": "Salmon with roasted Brussels sprouts and quinoa",
+        "totalCalories": "650",
+        "carbohydrates": "70",
+        "proteins": "65",
+        "fats": "25"
+    },
+    {
+        "food_id": 204,
+        "breakfast": "Greek yogurt with chopped nuts and a drizzle of honey",
+        "lunch": "Lentil soup with a side salad and whole wheat crackers",
+        "dinner": "Tofu stir-fry with brown rice and mixed vegetables",
+        "totalCalories": "550",
+        "carbohydrates": "60",
+        "proteins": "40",
+        "fats": "20"
+    },
+    {
+        "food_id": 205,
+        "breakfast": "Smoothie with protein powder, berries, spinach, and almond milk",
+        "lunch": "Chicken Caesar salad with whole wheat croutons (light dressing)",
+        "dinner": "Shrimp scampi with whole wheat pasta and steamed asparagus",
+        "totalCalories": "600",
+        "carbohydrates": "70",
+        "proteins": "55",
+        "fats": "20"
+    },
+    {
+        "food_id": 206,
+        "breakfast": "Veggie Frittata with chopped vegetables and cheese",
+        "lunch": "Chickpea and vegetable Buddha Bowl with brown rice and tahini dressing",
+        "dinner": "Grilled flank steak with roasted sweet potato and green beans",
+        "totalCalories": "750",
+        "carbohydrates": "80",
+        "proteins": "65",
+        "fats": "30"
+    },
+    {
+        "food_id": 207,
+        "breakfast": "Chia pudding with berries, chia seeds, and coconut milk",
+        "lunch": "Salmon salad sandwich on whole wheat bread with avocado",
+        "dinner": "Turkey chili with a dollop of Greek yogurt and chopped onions",
+        "totalCalories": "600",
+        "carbohydrates": "65",
+        "proteins": "50",
+        "fats": "25"
+    },
+    {
+        "food_id": 208,
+        "breakfast": "Scrambled eggs with chopped mushrooms and spinach",
+        "lunch": "Lentil and brown rice salad with chopped vegetables and vinaigrette",
+        "dinner": "Baked cod with lemon and dill, roasted asparagus, and quinoa",
+        "totalCalories": "800",
+        "carbohydrates": "90",
+        "proteins": "70",
+        "fats": "35"
+    },
+    {
+        "food_id": 209,
+        "breakfast": "Whole wheat banana bread with a sprinkle of nuts and Greek yogurt",
+        "lunch": "Black bean and corn quesadillas with salsa and avocado slices",
+        "dinner": "Chicken stir-fry with broccoli, carrots, and brown rice",
+        "totalCalories": "700",
+        "carbohydrates": "75",
+        "proteins": "60",
+        "fats": "30"
+    },
+    {
+        "food_id": 210,
+        "breakfast": "Oatmeal with chopped pear, walnuts, and a drizzle of maple syrup",
+        "lunch": "Tuna salad with chopped celery, onion, and whole wheat crackers",
+        "dinner": "Tofu Buddha Bowl with brown rice, roasted vegetables, and peanut sauce",
+        "totalCalories": "650",
+        "carbohydrates": "70",
+        "proteins": "55",
+        "fats": "20"
+    },
+    {
+        "food_id": 211,
+        "breakfast": "Cottage cheese with sliced peaches and a sprinkle of cinnamon",
+        "lunch": "Chicken Caesar salad with a light vinaigrette and whole wheat croutons",
+        "dinner": "Shrimp tacos with whole wheat tortillas, cabbage slaw, and avocado crema",
+        "totalCalories": "700",
+        "carbohydrates": "80",
+        "proteins": "65",
+        "fats": "30"
+    },
+    {
+        "food_id": 212,
+        "breakfast": "Whole wheat pancakes with ricotta cheese and a sprinkle of berries",
+        "lunch": "Turkey and vegetable wrap with a whole wheat tortilla and hummus",
+        "dinner": "Salmon with roasted Brussels sprouts and quinoa",
+        "totalCalories": "800",
+        "carbohydrates": "85",
+        "proteins": "75",
+        "fats": "35"
+    },
+    {
+        "food_id": 213,
+        "breakfast": "Smoothie with spinach, banana, almond milk, and protein powder",
+        "lunch": "Black bean soup with a side salad and whole wheat roll",
+        "dinner": "Lentil soup with a dollop of Greek yogurt and chopped fresh herbs",
+        "totalCalories": "600",
+        "carbohydrates": "65",
+        "proteins": "45",
+        "fats": "20"
+    },
+    {
+        "food_id": 214,
+        "breakfast": "Scrambled eggs with smoked salmon and whole wheat toast",
+        "lunch": "Quinoa salad with grilled chicken, vegetables, and a light vinaigrette",
+        "dinner": "Baked cod with lemon and herbs, roasted asparagus, and brown rice",
+        "totalCalories": "750",
+        "carbohydrates": "80",
+        "proteins": "65",
+        "fats": "25"
+    },
+    {
+        "food_id": 215,
+        "breakfast": "Greek yogurt with chopped fruit and a sprinkle of granola",
+        "lunch": "Chicken breast salad with mixed greens, chopped apple, and walnuts",
+        "dinner": "Tofu scramble with chopped vegetables and whole wheat toast",
+        "totalCalories": "600",
+        "carbohydrates": "70",
+        "proteins": "50",
+        "fats": "35"
+    },
+    {
+        "food_id": 216,
+        "breakfast": "Whole wheat toast with avocado and a sprinkle of everything bagel seasoning",
+        "lunch": "Turkey and vegetable stir-fry with brown rice noodles",
+        "dinner": "Grilled chicken breast with roasted sweet potato and green beans",
+        "totalCalories": "700",
+        "carbohydrates": "75",
+        "proteins": "65",
+        "fats": "30"
+    },
+    {
+        "food_id": 217,
+        "breakfast": "Hard-boiled eggs with sliced tomato and whole wheat crackers",
+        "lunch": "Black bean and corn salad with a side of quinoa",
+        "dinner": "Baked salmon with lemon and dill, roasted asparagus, and quinoa",
+        "totalCalories": "650",
+        "carbohydrates": "70",
+        "proteins": "50",
+        "fats": "25"
+    },
+    {
+        "food_id": 218,
+        "breakfast": "Protein pancakes with berries and a dollop of Greek yogurt",
+        "lunch": "Chicken Caesar salad with a light vinaigrette and chopped vegetables",
+        "dinner": "Shrimp scampi with whole wheat pasta and steamed broccoli",
+        "totalCalories": "800",
+        "carbohydrates": "85",
+        "proteins": "70",
+        "fats": "30"
+    },
+    {
+        "food_id": 219,
+        "breakfast": "Overnight oats with almond milk, chia seeds, and a chopped apple",
+        "lunch": "Tuna salad with chopped celery and whole wheat crackers with a side salad",
+        "dinner": "Tofu stir-fry with brown rice and mixed vegetables",
+        "totalCalories": "600",
+        "carbohydrates": "60",
+        "proteins": "45",
+        "fats": "25"
+    },
+    {
+        "food_id": 220,
+        "breakfast": "Cottage cheese with sliced cucumber and a sprinkle of dill",
+        "lunch": "Lentil soup with a side salad and whole wheat roll",
+        "dinner": "Chicken fajitas with whole wheat tortillas, grilled peppers, and onions",
+        "totalCalories": "700",
+        "carbohydrates": "80",
+        "proteins": "60",
+        "fats": "30"
+    },
+    {
+        "food_id": 221,
+        "breakfast": "Scrambled eggs with chopped spinach and feta cheese",
+        "lunch": "Quinoa bowl with black beans, salsa, and avocado",
+        "dinner": "Baked cod with lemon and herbs, roasted Brussels sprouts, and brown rice",
+        "totalCalories": "750",
+        "carbohydrates": "85",
+        "proteins": "65",
+        "fats": "25"
+    },
+    {
+        "food_id": 222,
+        "breakfast": "Greek yogurt with chopped nuts and a drizzle of honey",
+        "lunch": "Turkey and vegetable wrap with a whole wheat tortilla and hummus",
+        "dinner": "Salmon with roasted sweet potato and green beans",
+        "totalCalories": "650",
+        "carbohydrates": "70",
+        "proteins": "55",
+        "fats": "20"
+    },
+    {
+        "food_id": 223,
+        "breakfast": "Smoothie with spinach, banana, and almond milk",
+        "lunch": "Chicken breast salad with mixed greens, cranberries, and balsamic vinaigrette",
+        "dinner": "Lentil and vegetable stew with a side of whole wheat bread",
+        "totalCalories": "600",
+        "carbohydrates": "65",
+        "proteins": "50",
+        "fats": "20"
+    },
+    {
+        "food_id": 224,
+        "breakfast": "Whole wheat waffles with sliced banana and a drizzle of maple syrup",
+        "lunch": "Black bean soup with a whole wheat tortilla and avocado slices",
+        "dinner": "Tofu scramble with chopped vegetables and brown rice",
+        "totalCalories": "700",
+        "carbohydrates": "75",
+        "proteins": "60",
+        "fats": "30"
+    },
+    {
+        "food_id": 225,
+        "breakfast": "Scrambled eggs with chopped vegetables and whole wheat toast",
+        "lunch": "Chicken salad sandwich on whole wheat bread with avocado",
+        "dinner": "Shrimp tacos with corn tortillas, cabbage slaw, and avocado crema",
+        "totalCalories": "800",
+        "carbohydrates": "90",
+        "proteins": "70",
+        "fats": "35"
+    },
+    {
+        "food_id": 226,
+        "breakfast": "Foul Medames with lemon juice and olive oil",
+        "lunch": "Grilled chicken with molokhia and brown rice",
+        "dinner": "Baked fish with steamed vegetables",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 227,
+        "breakfast": "Baladi bread with cottage cheese and cucumber",
+        "lunch": "Grilled kofta with tahini sauce and mixed salad",
+        "dinner": "Stuffed bell peppers with quinoa and minced turkey",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "120",
+        "fats": "45"
+    },
+    {
+        "food_id": 228,
+        "breakfast": "Scrambled eggs with tomatoes and green peppers",
+        "lunch": "Roasted lamb with okra stew and bulgur",
+        "dinner": "Shakshuka with spinach and feta cheese",
+        "totalCalories": "1550",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 229,
+        "breakfast": "Greek yogurt with flax seeds and a small apple",
+        "lunch": "Grilled shrimp with fattoush salad",
+        "dinner": "Lentil soup with a side of steamed broccoli",
+        "totalCalories": "1400",
+        "carbohydrates": "145",
+        "proteins": "105",
+        "fats": "50"
+    },
+    {
+        "food_id": 230,
+        "breakfast": "Omelette with mushrooms and onions",
+        "lunch": "Chicken shawarma salad with mixed greens",
+        "dinner": "Stuffed zucchini with ground beef and tomato sauce",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 231,
+        "breakfast": "Hummus with cucumber sticks",
+        "lunch": "Grilled sea bass with lemon garlic sauce and a side of ratatouille",
+        "dinner": "Baba ganoush with roasted chicken breast",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "55"
+    },
+    {
+        "food_id": 232,
+        "breakfast": "Whole wheat toast with avocado and poached egg",
+        "lunch": "Beef kebabs with roasted vegetables",
+        "dinner": "Quinoa salad with chickpeas, tomatoes, and parsley",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 233,
+        "breakfast": "Smoothie with spinach, banana, and almond milk",
+        "lunch": "Roasted turkey with green beans and sweet potato",
+        "dinner": "Falafel with tabbouleh and tahini sauce",
+        "totalCalories": "1500",
+        "carbohydrates": "135",
+        "proteins": "110",
+        "fats": "55"
+    },
+    {
+        "food_id": 234,
+        "breakfast": "Labneh with olives and a small piece of pita bread",
+        "lunch": "Baked chicken with roasted eggplant and a side salad",
+        "dinner": "Spinach and lentil stew with brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 235,
+        "breakfast": "Chia seed pudding with mixed berries",
+        "lunch": "Grilled beef liver with a side of steamed carrots and green beans",
+        "dinner": "Vegetable stew with chickpeas and tomatoes",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 236,
+        "breakfast": "Boiled eggs with a side of sliced tomatoes and cucumbers",
+        "lunch": "Grilled fish with dill and a side of cauliflower rice",
+        "dinner": "Chicken tagine with olives and preserved lemons",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 237,
+        "breakfast": "Whole grain cereal with low-fat milk and a handful of berries",
+        "lunch": "Vegetable moussaka with eggplant, zucchini, and tomatoes",
+        "dinner": "Stuffed grape leaves with quinoa and lean ground meat",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "45"
+    },
+    {
+        "food_id": 238,
+        "breakfast": "Foul Medames with chopped parsley and a drizzle of olive oil",
+        "lunch": "Lentil and vegetable stew with a side of mixed greens",
+        "dinner": "Roasted chicken with a side of sautéed spinach",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 239,
+        "breakfast": "Low-fat yogurt with a sprinkle of nuts and seeds",
+        "lunch": "Shrimp kebabs with a side of grilled vegetables",
+        "dinner": "Baked eggplant with ground turkey and tomato sauce",
+        "totalCalories": "1400",
+        "carbohydrates": "145",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 240,
+        "breakfast": "Smoothie with kale, cucumber, and green apple",
+        "lunch": "Chicken and vegetable stir-fry with brown rice",
+        "dinner": "Baked falafel with a side of tahini sauce and cucumber salad",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 241,
+        "breakfast": "Whole wheat pita with hummus and sliced bell peppers",
+        "lunch": "Beef stew with carrots, potatoes, and peas",
+        "dinner": "Quinoa tabbouleh with grilled chicken strips",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 242,
+        "breakfast": "Cottage cheese with pineapple chunks and a sprinkle of chia seeds",
+        "lunch": "Stuffed cabbage rolls with lean ground beef and brown rice",
+        "dinner": "Grilled lamb chops with a side of roasted Brussels sprouts",
+        "totalCalories": "1550",
+        "carbohydrates": "135",
+        "proteins": "125",
+        "fats": "55"
+    },
+    {
+        "food_id": 243,
+        "breakfast": "Omelette with spinach and feta cheese",
+        "lunch": "Spicy chickpea and vegetable curry with a side of quinoa",
+        "dinner": "Grilled turkey breast with a side of steamed asparagus",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 244,
+        "breakfast": "Greek yogurt with a drizzle of honey and walnuts",
+        "lunch": "Salmon kebabs with a side of tabbouleh",
+        "dinner": "Roasted chicken thighs with a side of garlic green beans",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 245,
+        "breakfast": "Boiled eggs with a side of avocado and whole grain toast",
+        "lunch": "Moroccan-style chicken with apricots and almonds",
+        "dinner": "Grilled eggplant rolls with ricotta and spinach",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 246,
+        "breakfast": "Feta cheese with olives and cherry tomatoes",
+        "lunch": "Roasted duck with a side of green beans and quinoa",
+        "dinner": "Grilled lamb kofta with a side of roasted vegetables",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 247,
+        "breakfast": "Whole grain pancakes with a side of fresh fruit",
+        "lunch": "Grilled halloumi cheese with mixed greens and a balsamic glaze",
+        "dinner": "Roasted eggplant with tahini sauce and pomegranate seeds",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "45"
+    },
+    {
+        "food_id": 248,
+        "breakfast": "Labneh with zaatar and olive oil, served with sliced vegetables",
+        "lunch": "Chicken stew with okra and a side of brown rice",
+        "dinner": "Baked fish fillet with a side of cauliflower mash",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 249,
+        "breakfast": "Chia seed pudding with almond milk and fresh berries",
+        "lunch": "Grilled calamari with a side of roasted sweet potatoes",
+        "dinner": "Vegetable tagine with chickpeas and couscous",
+        "totalCalories": "1400",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 250,
+        "breakfast": "Spinach and cheese frittata",
+        "lunch": "Stuffed bell peppers with brown rice, ground turkey, and tomato sauce",
+        "dinner": "Grilled salmon with a side of steamed broccoli",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 251,
+        "breakfast": "Oatmeal with almond milk, topped with sliced bananas and a sprinkle of cinnamon",
+        "lunch": "Chicken and vegetable stir-fry with a side of quinoa",
+        "dinner": "Lentil soup with a side of roasted cauliflower",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 252,
+        "breakfast": "Whole grain toast with mashed avocado and a poached egg",
+        "lunch": "Grilled lamb chops with a side of ratatouille",
+        "dinner": "Vegetable curry with tofu and brown rice",
+        "totalCalories": "1550",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 253,
+        "breakfast": "Smoothie with kale, cucumber, and green apple",
+        "lunch": "Stuffed zucchini with lean ground beef and tomato sauce",
+        "dinner": "Grilled shrimp with a side of vegetable stir-fry",
+        "totalCalories": "1500",
+        "carbohydrates": "135",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 254,
+        "breakfast": "Low-fat yogurt with a drizzle of honey and sliced almonds",
+        "lunch": "Roasted turkey breast with a side of green beans",
+        "dinner": "Chickpea and spinach stew with a side of whole grain pita bread",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 255,
+        "breakfast": "Boiled eggs with a side of sliced avocado and whole grain toast",
+        "lunch": "Beef stew with a side of mashed sweet potatoes",
+        "dinner": "Roasted chicken thighs with a side of Brussels sprouts",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 256,
+        "breakfast": "Scrambled eggs with spinach and whole grain toast",
+        "lunch": "Grilled swordfish with a side of mixed vegetables",
+        "dinner": "Chicken and chickpea stew with a side of brown rice",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 257,
+        "breakfast": "Whole grain bagel with smoked salmon and a light cream cheese spread",
+        "lunch": "Grilled portobello mushroom with a side of quinoa salad",
+        "dinner": "Beef and vegetable kebabs with a side of bulgur wheat",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 258,
+        "breakfast": "Greek yogurt with a sprinkle of flax seeds and fresh strawberries",
+        "lunch": "Chicken and vegetable skewers with a side of couscous",
+        "dinner": "Baked cod with a side of sautéed kale",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 259,
+        "breakfast": "Smoothie with spinach, banana, and almond milk",
+        "lunch": "Spiced lentil soup with a side of mixed greens",
+        "dinner": "Stuffed eggplant with ground turkey and tomatoes",
+        "totalCalories": "1400",
+        "carbohydrates": "135",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 260,
+        "breakfast": "Foul Medames with a drizzle of olive oil and lemon",
+        "lunch": "Grilled chicken salad with tahini dressing",
+        "dinner": "Shrimp and vegetable stir-fry with a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 261,
+        "breakfast": "Whole grain toast with avocado and cherry tomatoes",
+        "lunch": "Baked salmon with a side of roasted Brussels sprouts",
+        "dinner": "Vegetarian moussaka with eggplant, tomatoes, and lentils",
+        "totalCalories": "1500",
+        "carbohydrates": "135",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 262,
+        "breakfast": "Boiled eggs with a side of sliced cucumber and tomatoes",
+        "lunch": "Grilled turkey breast with a side of quinoa pilaf",
+        "dinner": "Vegetable curry with chickpeas and a side of brown rice",
+        "totalCalories": "1550",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 263,
+        "breakfast": "Chia seed pudding with almond milk and fresh berries",
+        "lunch": "Chicken and vegetable wrap with a whole grain tortilla",
+        "dinner": "Baked fish fillet with a side of steamed broccoli",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 264,
+        "breakfast": "Low-fat yogurt with honey and sliced almonds",
+        "lunch": "Roasted vegetable salad with chickpeas and a lemon vinaigrette",
+        "dinner": "Grilled lamb chops with a side of roasted cauliflower",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 265,
+        "breakfast": "Oatmeal with cinnamon and sliced apples",
+        "lunch": "Moroccan chicken stew with a side of couscous",
+        "dinner": "Vegetable and tofu stir-fry with a side of brown rice",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 266,
+        "breakfast": "Whole grain toast with peanut butter and banana slices",
+        "lunch": "Grilled chicken with a side of roasted carrots",
+        "dinner": "Vegetable soup with a side of whole grain bread",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 267,
+        "breakfast": "Scrambled eggs with tomatoes and herbs",
+        "lunch": "Baked tilapia with a side of green beans",
+        "dinner": "Stuffed bell peppers with brown rice and lean ground beef",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "45"
+    },
+    {
+        "food_id": 268,
+        "breakfast": "Greek yogurt with a drizzle of honey and sliced kiwi",
+        "lunch": "Grilled shrimp with a side of cucumber salad",
+        "dinner": "Roasted chicken with a side of sautéed spinach",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 269,
+        "breakfast": "Smoothie with spinach, avocado, and almond milk",
+        "lunch": "Chicken Caesar salad with a light dressing",
+        "dinner": "Vegetable stir-fry with tofu and a side of brown rice",
+        "totalCalories": "1400",
+        "carbohydrates": "135",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 270,
+        "breakfast": "Foul Medames with a dash of cumin and olive oil",
+        "lunch": "Roasted duck with a side of quinoa salad",
+        "dinner": "Grilled fish with a side of ratatouille",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 271,
+        "breakfast": "Whole grain toast with avocado and a poached egg",
+        "lunch": "Vegetarian chili with a side of cornbread",
+        "dinner": "Lamb stew with a side of steamed vegetables",
+        "totalCalories": "1500",
+        "carbohydrates": "135",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 272,
+        "breakfast": "Oatmeal with blueberries and a sprinkle of flax seeds",
+        "lunch": "Grilled turkey with a side of mashed sweet potatoes",
+        "dinner": "Baked eggplant with tomato and basil",
+        "totalCalories": "1550",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 273,
+        "breakfast": "Boiled eggs with a side of whole grain crackers and cheese",
+        "lunch": "Lentil soup with a side of mixed greens",
+        "dinner": "Chicken and vegetable skewers with a side of brown rice",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 274,
+        "breakfast": "Chia seed pudding with coconut milk and fresh mango",
+        "lunch": "Grilled lamb with a side of roasted vegetables",
+        "dinner": "Vegetable curry with chickpeas and a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 275,
+        "breakfast": "Labneh with sliced cucumbers and olives",
+        "lunch": "Chicken shawarma wrap with a whole grain tortilla",
+        "dinner": "Grilled fish with a side of steamed broccoli",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 276,
+        "breakfast": "Smoothie with kale, cucumber, and pineapple",
+        "lunch": "Stuffed zucchini with lean ground turkey and quinoa",
+        "dinner": "Vegetable stew with lentils and a side of whole grain bread",
+        "totalCalories": "1400",
+        "carbohydrates": "135",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 277,
+        "breakfast": "Scrambled eggs with smoked salmon and whole grain toast",
+        "lunch": "Grilled chicken salad with a lemon vinaigrette",
+        "dinner": "Baked fish fillet with a side of sautéed greens",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 278,
+        "breakfast": "Greek yogurt with honey and granola",
+        "lunch": "Grilled beef kebabs with a side of tabbouleh",
+        "dinner": "Chicken and vegetable stir-fry with a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 279,
+        "breakfast": "Oatmeal with raisins and a sprinkle of cinnamon",
+        "lunch": "Stuffed bell peppers with ground beef and brown rice",
+        "dinner": "Grilled lamb chops with a side of roasted vegetables",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 280,
+        "breakfast": "Chia seed pudding with almond milk and fresh berries",
+        "lunch": "Chicken and vegetable soup with a side of whole grain bread",
+        "dinner": "Baked eggplant with a side of sautéed spinach",
+        "totalCalories": "1550",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 281,
+        "breakfast": "Whole grain toast with avocado and tomato slices",
+        "lunch": "Roasted turkey with a side of quinoa salad",
+        "dinner": "Vegetable and chickpea curry with a side of brown rice",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 282,
+        "breakfast": "Boiled eggs with a side of whole grain crackers and cheese",
+        "lunch": "Lentil soup with a side of mixed greens",
+        "dinner": "Chicken and vegetable skewers with a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 283,
+        "breakfast": "Greek yogurt with honey and sliced almonds",
+        "lunch": "Vegetable stir-fry with tofu and a side of brown rice",
+        "dinner": "Baked fish fillet with a side of steamed broccoli",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 284,
+        "breakfast": "Smoothie with spinach, banana, and almond milk",
+        "lunch": "Grilled chicken salad with a lemon vinaigrette",
+        "dinner": "Stuffed eggplant with lean ground turkey and tomatoes",
+        "totalCalories": "1400",
+        "carbohydrates": "135",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 285,
+        "breakfast": "Whole grain toast with mashed avocado and a poached egg",
+        "lunch": "Beef stew with carrots and potatoes",
+        "dinner": "Vegetable and lentil curry with a side of brown rice",
+        "totalCalories": "1550",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 286,
+        "breakfast": "Chia seed pudding with almond milk and fresh berries",
+        "lunch": "Chicken and vegetable soup with a side of whole grain bread",
+        "dinner": "Grilled lamb chops with a side of roasted Brussels sprouts",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 287,
+        "breakfast": "Scrambled eggs with tomatoes and herbs",
+        "lunch": "Grilled shrimp with a side of cucumber salad",
+        "dinner": "Vegetarian chili with a side of cornbread",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 288,
+        "breakfast": "Greek yogurt with honey and walnuts",
+        "lunch": "Grilled chicken breast with a side of quinoa",
+        "dinner": "Stuffed bell peppers with lean ground beef and brown rice",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 289,
+        "breakfast": "Smoothie with kale, cucumber, and pineapple",
+        "lunch": "Baked tilapia with a side of green beans",
+        "dinner": "Vegetable stir-fry with tofu and a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "45"
+    },
+    {
+        "food_id": 290,
+        "breakfast": "Scrambled eggs with smoked salmon and whole grain toast",
+        "lunch": "Chicken Caesar salad with a light dressing",
+        "dinner": "Grilled lamb chops with a side of roasted vegetables",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 291,
+        "breakfast": "Oatmeal with blueberries and a sprinkle of flax seeds",
+        "lunch": "Grilled turkey with a side of mashed sweet potatoes",
+        "dinner": "Baked fish fillet with a side of sautéed greens",
+        "totalCalories": "1550",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 292,
+        "breakfast": "Chia seed pudding with almond milk and fresh berries",
+        "lunch": "Stuffed zucchini with lean ground turkey and quinoa",
+        "dinner": "Vegetarian moussaka with eggplant, tomatoes, and lentils",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 293,
+        "breakfast": "Greek yogurt with a drizzle of honey and sliced kiwi",
+        "lunch": "Chicken shawarma wrap with a whole grain tortilla",
+        "dinner": "Grilled fish with a side of steamed broccoli",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 294,
+        "breakfast": "Scrambled eggs with tomatoes and herbs",
+        "lunch": "Grilled shrimp with a side of cucumber salad",
+        "dinner": "Vegetarian chili with a side of cornbread",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 295,
+        "breakfast": "Whole grain toast with avocado and cherry tomatoes",
+        "lunch": "Grilled chicken salad with tahini dressing",
+        "dinner": "Stuffed eggplant with ground turkey and tomatoes",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 296,
+        "breakfast": "Smoothie with spinach, banana, and almond milk",
+        "lunch": "Vegetarian curry with chickpeas and a side of brown rice",
+        "dinner": "Baked salmon with a side of roasted Brussels sprouts",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 297,
+        "breakfast": "Boiled eggs with a side of whole grain crackers and cheese",
+        "lunch": "Lentil soup with a side of mixed greens",
+        "dinner": "Grilled chicken and vegetable skewers with a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 298,
+        "breakfast": "Chia seed pudding with almond milk and fresh berries",
+        "lunch": "Chicken and vegetable soup with a side of whole grain bread",
+        "dinner": "Grilled lamb chops with a side of roasted Brussels sprouts",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 299,
+        "breakfast": "Greek yogurt with honey and granola",
+        "lunch": "Grilled beef kebabs with a side of tabbouleh",
+        "dinner": "Chicken and vegetable stir-fry with a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 300,
+        "breakfast": "Oatmeal with raisins and a sprinkle of cinnamon",
+        "lunch": "Stuffed bell peppers with ground beef and brown rice",
+        "dinner": "Grilled lamb chops with a side of roasted vegetables",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 301,
+        "breakfast": "Chia seed pudding with almond milk and fresh berries",
+        "lunch": "Chicken and vegetable soup with a side of whole grain bread",
+        "dinner": "Baked eggplant with a side of sautéed spinach",
+        "totalCalories": "1550",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 302,
+        "breakfast": "Whole grain toast with avocado and tomato slices",
+        "lunch": "Roasted turkey with a side of quinoa salad",
+        "dinner": "Vegetable and chickpea curry with a side of brown rice",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 303,
+        "breakfast": "Boiled eggs with a side of whole grain crackers and cheese",
+        "lunch": "Lentil soup with a side of mixed greens",
+        "dinner": "Chicken and vegetable skewers with a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 304,
+        "breakfast": "Greek yogurt with honey and sliced almonds",
+        "lunch": "Vegetable stir-fry with tofu and a side of brown rice",
+        "dinner": "Baked fish fillet with a side of steamed broccoli",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 305,
+        "breakfast": "Smoothie with spinach, banana, and almond milk",
+        "lunch": "Grilled chicken salad with a lemon vinaigrette",
+        "dinner": "Stuffed eggplant with lean ground turkey and tomatoes",
+        "totalCalories": "1400",
+        "carbohydrates": "135",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 306,
+        "breakfast": "Whole grain toast with mashed avocado and a poached egg",
+        "lunch": "Beef stew with carrots and potatoes",
+        "dinner": "Vegetable and lentil curry with a side of brown rice",
+        "totalCalories": "1550",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "55"
+    },
+    {
+        "food_id": 307,
+        "breakfast": "Chia seed pudding with almond milk and fresh berries",
+        "lunch": "Chicken and vegetable soup with a side of whole grain bread",
+        "dinner": "Grilled lamb chops with a side of roasted Brussels sprouts",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 308,
+        "breakfast": "Scrambled eggs with tomatoes and herbs",
+        "lunch": "Grilled shrimp with a side of cucumber salad",
+        "dinner": "Vegetarian chili with a side of cornbread",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "110",
+        "fats": "50"
+    },
+    {
+        "food_id": 309,
+        "breakfast": "Oatmeal with almond milk and a sprinkle of flax seeds",
+        "lunch": "Grilled chicken with a side of mashed sweet potatoes",
+        "dinner": "Baked eggplant with tomato and basil",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 310,
+        "breakfast": "Whole grain toast with cottage cheese and sliced tomatoes",
+        "lunch": "Falafel wrap with whole wheat pita and mixed greens",
+        "dinner": "Grilled tilapia with a side of roasted cauliflower",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 311,
+        "breakfast": "Smoothie with spinach, avocado, and apple",
+        "lunch": "Lentil and vegetable stew with a side of brown rice",
+        "dinner": "Grilled chicken thighs with a side of steamed asparagus",
+        "totalCalories": "1500",
+        "carbohydrates": "130",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 312,
+        "breakfast": "Oatmeal with sliced almonds and a drizzle of honey",
+        "lunch": "Chickpea salad with cucumber, tomato, and feta",
+        "dinner": "Baked salmon with a side of green beans",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 313,
+        "breakfast": "Greek yogurt with granola and fresh strawberries",
+        "lunch": "Quinoa salad with roasted vegetables",
+        "dinner": "Stuffed peppers with ground turkey and brown rice",
+        "totalCalories": "1500",
+        "carbohydrates": "135",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 314,
+        "breakfast": "Scrambled eggs with spinach and mushrooms",
+        "lunch": "Grilled chicken Caesar salad with a light dressing",
+        "dinner": "Baked cod with a side of sautéed kale",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 315,
+        "breakfast": "Smoothie with kale, banana, and almond milk",
+        "lunch": "Vegetable curry with chickpeas and a side of quinoa",
+        "dinner": "Grilled steak with a side of roasted Brussels sprouts",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 316,
+        "breakfast": "Whole grain toast with avocado and poached eggs",
+        "lunch": "Baked chicken with a side of quinoa salad",
+        "dinner": "Grilled shrimp with a side of steamed broccoli",
+        "totalCalories": "1450",
+        "carbohydrates": "130",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 317,
+        "breakfast": "Greek yogurt with honey and sliced kiwi",
+        "lunch": "Roasted vegetable and hummus wrap with whole wheat tortilla",
+        "dinner": "Baked trout with a side of roasted carrots",
+        "totalCalories": "1500",
+        "carbohydrates": "135",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 318,
+        "breakfast": "Oatmeal with raisins and a sprinkle of cinnamon",
+        "lunch": "Chicken and vegetable stir-fry with a side of brown rice",
+        "dinner": "Grilled lamb chops with a side of steamed green beans",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 319,
+        "breakfast": "Smoothie with spinach, pineapple, and coconut milk",
+        "lunch": "Turkey and avocado wrap with whole wheat tortilla",
+        "dinner": "Baked chicken with a side of roasted sweet potatoes",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 320,
+        "breakfast": "Greek yogurt with granola and blueberries",
+        "lunch": "Vegetable soup with a side of whole grain bread",
+        "dinner": "Grilled fish with a side of steamed asparagus",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 321,
+        "breakfast": "Whole grain toast with almond butter and banana slices",
+        "lunch": "Chicken salad with mixed greens and a light vinaigrette",
+        "dinner": "Baked salmon with a side of roasted cauliflower",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 322,
+        "breakfast": "Oatmeal with chia seeds and fresh berries",
+        "lunch": "Grilled chicken with a side of quinoa and vegetable salad",
+        "dinner": "Stuffed bell peppers with lean ground beef and brown rice",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 323,
+        "breakfast": "Smoothie with spinach, mango, and coconut milk",
+        "lunch": "Vegetable and chickpea curry with a side of brown rice",
+        "dinner": "Grilled lamb with a side of steamed broccoli",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 324,
+        "breakfast": "Greek yogurt with honey and sliced almonds",
+        "lunch": "Chicken and vegetable soup with a side of whole grain bread",
+        "dinner": "Baked cod with a side of sautéed spinach",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 325,
+        "breakfast": "Whole grain toast with avocado and a poached egg",
+        "lunch": "Grilled turkey with a side of quinoa salad",
+        "dinner": "Vegetable stir-fry with tofu and a side of brown rice",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 326,
+        "breakfast": "Smoothie with kale, banana, and almond milk",
+        "lunch": "Stuffed zucchini with lean ground turkey and quinoa",
+        "dinner": "Grilled chicken with a side of roasted carrots",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 327,
+        "breakfast": "Oatmeal with sliced almonds and a drizzle of honey",
+        "lunch": "Vegetable and lentil stew with a side of brown rice",
+        "dinner": "Baked trout with a side of roasted Brussels sprouts",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
+    },
+    {
+        "food_id": 328,
+        "breakfast": "Greek yogurt with granola and fresh berries",
+        "lunch": "Chicken Caesar salad with a light dressing",
+        "dinner": "Grilled lamb chops with a side of steamed green beans",
+        "totalCalories": "1500",
+        "carbohydrates": "140",
+        "proteins": "120",
+        "fats": "50"
+    },
+    {
+        "food_id": 329,
+        "breakfast": "Smoothie with spinach, apple, and almond milk",
+        "lunch": "Roasted vegetable and quinoa salad",
+        "dinner": "Grilled shrimp with a side of steamed broccoli",
+        "totalCalories": "1450",
+        "carbohydrates": "135",
+        "proteins": "115",
+        "fats": "50"
     }
 ]
