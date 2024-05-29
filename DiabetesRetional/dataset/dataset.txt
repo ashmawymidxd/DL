@@ -1,0 +1,2 @@
+Dataset - https://www.kaggle.com/datasets/sachinkumar413/diabetic-retinopathy-dataset
+Refernce - https://www.kaggle.com/code/tharunvarshan/kaggle
